@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![](https://data.jsdelivr.com/v1/package/gh/moezx/cdn/badge)](https://www.jsdelivr.com/package/gh/moezx/cdn)
+[![](https://data.jsdelivr.com/v1/package/gh/zkxi/cdn/badge)](https://www.jsdelivr.com/package/gh/zkxi/cdn)
